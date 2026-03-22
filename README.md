@@ -13,23 +13,6 @@ A virtual pharmacy management system designed specifically for NUST hostelites. 
 
 ---
 
-### ✨ Quick start
-
-```bash
-# Clone the repository
-git clone https://github.com/ZainAbid-1/NMC-pharm.git
-
-# Build the project using make
-make
-
-# Run the application
-./NMC-pharm
-```
-
-*Note: Ensure you have the Qt development environment and MySQL server configured on your local machine.*
-
----
-
 ### 🚀 System Features
 
 - **Account-Based System** — Secure sign-in and sign-up functionality for different user roles.
